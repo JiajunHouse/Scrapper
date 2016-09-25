@@ -1,0 +1,23 @@
+{
+  "name": "jobScrapper",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JiajunHouse/Scrapper.git"
+  },
+  "author": "Jiajunx",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/JiajunHouse/Scrapper/issues"
+  },
+  "dependencies": {
+    "express": "~4.14.0",
+    "cheerio": "~0.22.0",
+    "request": "~2.75.0"
+  }
+}
